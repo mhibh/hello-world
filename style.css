@@ -1,0 +1,22 @@
+.x {
+    color: crimson;
+    font-size: 40px;
+}
+
+li {
+    color: orange;
+}
+
+#warnabiru {
+    color: blueviolet;
+}
+
+.warnamerah {
+    color: red;
+}
+
+.btn {
+    color: white;
+    position: relative;
+    top: 300px;
+}
